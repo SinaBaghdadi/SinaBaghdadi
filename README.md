@@ -1,4 +1,4 @@
-###👋 Hello World, I'm Sina.
+## 👋 Hello World, I'm Sina.
 I’m interested in Data Science | ML | AI
 
 <!--
