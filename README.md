@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="R" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" height="40" style="vertical-align:top; margin:4px">   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="powerbi" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
