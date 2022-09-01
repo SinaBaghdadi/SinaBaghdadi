@@ -1,5 +1,5 @@
 ## 👋 Hello World, I'm Sina.
-### I’m interested in Data Science | ML | AI
+###  I’m interested in Data Science | ML | AI
 
 <!--
 **SinaBaghdadi/SinaBaghdadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
