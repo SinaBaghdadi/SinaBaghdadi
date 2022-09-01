@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+## ✉️ Find me on:
 
 <p align="left">
- <a href="https://linkedin.com/in/sinabaghdadi" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://linkedin.com/in/sinabaghdadi" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
