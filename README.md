@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="center">
- <a href="https://linkedin.com/in/sinabaghdadi" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<p align="left">
+ <a href="https://linkedin.com/in/sinabaghdadi" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
