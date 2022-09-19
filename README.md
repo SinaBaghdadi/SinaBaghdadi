@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinabaghdadi&theme=github_dark)
 
 <br />
-
+<img src="https://komarev.com/ghpvc/?username=SinaBaghdadi&style=flat-square&color=blue" alt=""/>
 ##  ✉️ Find me on:
 
 <p align="left">
